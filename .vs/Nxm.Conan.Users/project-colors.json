@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b861f088-c0f6-4966-b70a-8d73cae164c3": {
+      "ProjectGuid": "b861f088-c0f6-4966-b70a-8d73cae164c3",
+      "DisplayName": "Nxm.Conan.Users.Core",
+      "ColorIndex": 0
+    },
+    "65295ddb-07b5-4164-92cb-494ad6a1a1c9": {
+      "ProjectGuid": "65295ddb-07b5-4164-92cb-494ad6a1a1c9",
+      "DisplayName": "Nxm.Conan.Users.Api",
+      "ColorIndex": 1
+    },
+    "4e204f89-536a-49c9-ab94-9b7d8173d99c": {
+      "ProjectGuid": "4e204f89-536a-49c9-ab94-9b7d8173d99c",
+      "DisplayName": "Nxm.Conan.Users.Application",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

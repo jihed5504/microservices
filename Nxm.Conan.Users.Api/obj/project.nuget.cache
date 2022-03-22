@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wVJewWHJiySD1IzVo9w+LHlTpRA68d2SqoO3yA3o2C9OkMmKL73Rw3SDtPGz4dzhQmOOU/j4B29ky9k1yXOAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jihed\\OneDrive\\Desktop\\Conan.Clean\\Nxm.Conan.Users\\Nxm.Conan.Users.Api\\Nxm.Conan.Users.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jihed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jihed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jihed\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jihed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jihed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jihed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
