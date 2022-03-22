@@ -1,0 +1,17 @@
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.AssemblyInfo.cs
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\Nxm.Conan.Users.Infrastructure.deps.json
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\Nxm.Conan.Users.Infrastructure.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\ref\Nxm.Conan.Users.Infrastructure.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\Nxm.Conan.Users.Infrastructure.pdb
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\Nxm.Conan.Users.Application.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\Nxm.Conan.Users.Core.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\Nxm.Conan.Users.Core.pdb
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\bin\Debug\net6.0\Nxm.Conan.Users.Application.pdb
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.csproj.CopyComplete
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\ref\Nxm.Conan.Users.Infrastructure.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Infrastructure\obj\Debug\net6.0\Nxm.Conan.Users.Infrastructure.pdb

@@ -1,11 +1,11 @@
-﻿using Conan_1.Helpers;
-using Conan_1.Models.Requests;
-using Conan_1.Models.Requests.Queries;
-using Conan_1.Models.Responses;
-using Conan_1.Services.V1;
+﻿using Nxm.Conan.Users.Core.Helpers;
+using Nxm.Conan.Users.Application.Requests;
+using Nxm.Conan.Users.Application.Requests.Queries;
+using Nxm.Conan.Users.Application.Responses;
+using Nxm.Conan.Users.Core.Services.V1;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Conan_1.Controllers
+namespace Nxm.Conan.Users.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -41,7 +41,7 @@ namespace Conan_1.Controllers
             return Ok(users);
         }
         [HttpPut("{id:Guid}")]
-        public ActionResult<IEnumerable<UserResponse>> UpdateUser(Guid id,[FromForm] UpdateUserRequest updateUserRequest)
+        public ActionResult<IEnumerable<UserResponse>> UpdateUser(Guid id, [FromForm] UpdateUserRequest updateUserRequest)
         {
             var user = _userService.UpdateUser(id.ToString(), updateUserRequest);
             return Ok(user);

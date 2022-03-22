@@ -2,10 +2,9 @@
 using MongoDB.Driver;
 using Nxm.Conan.Users.Infrastructure.Data.DbConfigs;
 using System.Linq.Expressions;
-using Nxm.Conan.Users.Infrastructure.Attributes.V1;
 using Nxm.Conan.Users.Core.Repositories;
 using Nxm.Conan.Users.Core.Entities;
-
+using Nxm.Conan.Users.Core.Attributes.V1;
 
 namespace Nxm.Conan.Users.Infrastructure.Repositories
 {

@@ -1,0 +1,12 @@
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\bin\Debug\net6.0\Nxm.Conan.Users.Application.deps.json
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\bin\Debug\net6.0\Nxm.Conan.Users.Application.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\bin\Debug\net6.0\ref\Nxm.Conan.Users.Application.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\bin\Debug\net6.0\Nxm.Conan.Users.Application.pdb
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\Nxm.Conan.Users.Application.csproj.AssemblyReference.cache
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\Nxm.Conan.Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\Nxm.Conan.Users.Application.AssemblyInfoInputs.cache
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\Nxm.Conan.Users.Application.AssemblyInfo.cs
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\Nxm.Conan.Users.Application.csproj.CoreCompileInputs.cache
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\Nxm.Conan.Users.Application.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\ref\Nxm.Conan.Users.Application.dll
+C:\Users\malek\OneDrive\Bureau\nxm.conan\Nxm.Conan.Users\Nxm.Conan.Users.Application\obj\Debug\net6.0\Nxm.Conan.Users.Application.pdb

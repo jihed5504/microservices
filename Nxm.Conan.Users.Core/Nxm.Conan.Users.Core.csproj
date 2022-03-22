@@ -6,4 +6,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="MongoDB.Bson" Version="2.15.0" />
+    <PackageReference Include="Newtonsoft.JsonResult" Version="1.0.5778.10762" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.16.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nxm.Conan.Users.Application\Nxm.Conan.Users.Application.csproj" />
+  </ItemGroup>
+
 </Project>

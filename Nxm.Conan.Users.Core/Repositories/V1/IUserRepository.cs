@@ -1,4 +1,4 @@
-﻿using Conan_1.Entities.V1;
+﻿using Nxm.Conan.Users.Core.Entities.V1;
 
 namespace Nxm.Conan.Users.Core.Repositories.V1
 {

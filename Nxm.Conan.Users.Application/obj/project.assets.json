@@ -131,16 +131,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "Nxm.Conan.Users.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Nxm.Conan.Users.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Nxm.Conan.Users.Core.dll": {}
-        }
       }
     }
   },
@@ -438,35 +428,29 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Nxm.Conan.Users.Core/1.0.0": {
-      "type": "project",
-      "path": "../Nxm.Conan.Users.Core/Nxm.Conan.Users.Core.csproj",
-      "msbuildProject": "../Nxm.Conan.Users.Core/Nxm.Conan.Users.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 11.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
-      "NEST >= 7.17.0",
-      "Nxm.Conan.Users.Core >= 1.0.0"
+      "NEST >= 7.17.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jihed\\.nuget\\packages\\": {}
+    "C:\\Users\\malek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jihed\\OneDrive\\Desktop\\Conan.Clean\\Nxm.Conan.Users\\Nxm.Conan.Users.Application\\Nxm.Conan.Users.Application.csproj",
+      "projectUniqueName": "C:\\Users\\malek\\OneDrive\\Bureau\\nxm.conan\\Nxm.Conan.Users\\Nxm.Conan.Users.Application\\Nxm.Conan.Users.Application.csproj",
       "projectName": "Nxm.Conan.Users.Application",
-      "projectPath": "C:\\Users\\Jihed\\OneDrive\\Desktop\\Conan.Clean\\Nxm.Conan.Users\\Nxm.Conan.Users.Application\\Nxm.Conan.Users.Application.csproj",
-      "packagesPath": "C:\\Users\\Jihed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jihed\\OneDrive\\Desktop\\Conan.Clean\\Nxm.Conan.Users\\Nxm.Conan.Users.Application\\obj\\",
+      "projectPath": "C:\\Users\\malek\\OneDrive\\Bureau\\nxm.conan\\Nxm.Conan.Users\\Nxm.Conan.Users.Application\\Nxm.Conan.Users.Application.csproj",
+      "packagesPath": "C:\\Users\\malek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\malek\\OneDrive\\Bureau\\nxm.conan\\Nxm.Conan.Users\\Nxm.Conan.Users.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jihed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\malek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -479,11 +463,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Jihed\\OneDrive\\Desktop\\Conan.Clean\\Nxm.Conan.Users\\Nxm.Conan.Users.Core\\Nxm.Conan.Users.Core.csproj": {
-              "projectPath": "C:\\Users\\Jihed\\OneDrive\\Desktop\\Conan.Clean\\Nxm.Conan.Users\\Nxm.Conan.Users.Core\\Nxm.Conan.Users.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

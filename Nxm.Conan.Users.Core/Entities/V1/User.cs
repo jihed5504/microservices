@@ -1,4 +1,4 @@
-﻿using Conan_1.Attributes.V1;
+﻿using Nxm.Conan.Users.Core.Attributes.V1;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 

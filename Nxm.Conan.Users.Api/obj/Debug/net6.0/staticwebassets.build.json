@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fMzTcPRqwMSL52Ldto+YBwDtAj2OKVgZy7ig9zv921k=",
+  "Source": "Nxm.Conan.Users.Api",
+  "BasePath": "_content/Nxm.Conan.Users.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

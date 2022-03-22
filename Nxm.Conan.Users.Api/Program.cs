@@ -1,10 +1,14 @@
-//using Conan_1.Datas.DbConfigs;
-//using Conan_1.Helpers;
-//using Conan_1.Mappings;
+using Nxm.Conan.Users.Infrastructure.Data.DbConfigs;
+using Nxm.Conan.Users.Core.Helpers;
+using Nxm.Conan.Users.Core.Mapping;
 //using Conan_1.Middlewares;
-//using Conan_1.Repositories;
-//using Conan_1.Repositories.V1;
-//using Conan_1.Services.V1;
+
+using Nxm.Conan.Users.Core.Repositories;
+using Nxm.Conan.Users.Core.Repositories.V1;
+using Nxm.Conan.Users.Infrastructure.Repositories;
+using Nxm.Conan.Users.Infrastructure.Repositories.V1;
+
+using Nxm.Conan.Users.Core.Services.V1;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 //using Swashbuckle.AspNetCore.Filters;

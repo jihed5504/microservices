@@ -1,4 +1,4 @@
-﻿using Conan_1.Entities;
+﻿using Nxm.Conan.Users.Core.Entities;
 using System.Linq.Expressions;
 
 namespace Nxm.Conan.Users.Core.Repositories
